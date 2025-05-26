@@ -1,11 +1,11 @@
-How to use:
+# How to use:
 
     Run the script: Execute portscanner.py and run it using Python 3.
     Input the IP address: When prompted, enter the IP address you want to scan.
     Input the port range: Enter the start and end ports for the scan.
     View results: The script will display the open ports found in the specified range.
 
-Important Notes:
+# Important Notes:
 
 Make sure you have permission to scan the target IP address, as unauthorized scanning can be considered illegal or malicious activity.
 
