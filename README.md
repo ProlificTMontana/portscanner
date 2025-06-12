@@ -1,3 +1,8 @@
+## Port Scanner
+
+# Overview:
+portscanner.py is a lightweight and effective Python 3 tool used to scan a target IP address for open TCP ports within a specified range. It helps identify network services that are currently accessible, which is vital for reconnaissance and vulnerability assessment in penetration testing.
+
 # How to use:
 
     Run the script: Execute portscanner.py and run it using Python 3.
